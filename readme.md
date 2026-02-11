@@ -3,7 +3,7 @@
 I'm a Systems Design Engineering student at the University of Waterloo.
 Prev SWE @Ford Motor Company and Data @Treasury Board Secretariat of Ontario.
 
-Trying to learn lots about electromagnetic waves, like the math behind it, the information it can carry, and decoding it in software!
+i like signals, the math behind it, the information it can carry, and decoding it in software!
 
 ---
 
