@@ -9,6 +9,8 @@ i like signals, the math behind it, the information it can carry, and decoding i
 
 ## Interests
 
+* Embedded systems
+* RTOS
 * Signal processing
 * RF as it applies to Astronomy 
 * Guitar (Electric and Acoustic) + Music production
