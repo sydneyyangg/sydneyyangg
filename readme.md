@@ -10,7 +10,7 @@ i like signals, the math behind it, the information it can carry, and decoding i
 ## Interests
 
 * Embedded systems
-* Cameras
+* Web3
 * Signal processing in RF and Audio
 * Cameras and image processing
 * Computer Vision
