@@ -10,15 +10,14 @@ i like signals, the math behind it, the information it can carry, and decoding i
 ## Interests
 
 * Embedded systems
-* Web3
 * Signal processing in RF and Audio
 * Cameras and image processing
 * Computer Vision
 
 ## Other fun things
-* Guitar (Electric and Acoustic)
+* Guitar (Electric and Acoustic), Saxophone
 * Music production
-* Video game art
+* World history!
 
 ---
 
