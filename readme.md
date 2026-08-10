@@ -10,9 +10,10 @@ i like signals, the math behind it, the information it can carry, and decoding i
 ## Interests
 
 * Embedded systems
-* Signal processing in RF and Audio
+* Renewable energy systems & EVs
 * Cameras and image processing
 * Computer Vision
+* Signal processing in RF and Audio
 
 ## Other fun things
 * Guitar (Electric and Acoustic), Saxophone
