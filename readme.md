@@ -1,7 +1,8 @@
 # Hi, I'm Sydney!
 
-I'm a Systems Design Engineering student at the University of Waterloo.
+I'm a Systems Design Engineering student at the University of Waterloo. Product @AI-Core
 Prev SWE @Ford Motor Company and Data @Treasury Board Secretariat of Ontario.
+Always seeking opportunities!
 
 i like signals, the math behind it, the information it can carry, and decoding it in software!
 
